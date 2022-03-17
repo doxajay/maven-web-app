@@ -100,13 +100,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>http://35.183.248.200:8081/repository/dv-releases</name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>http://35.183.248.200:8081/repository/DV-snapshots</name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
